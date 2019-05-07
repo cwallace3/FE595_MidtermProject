@@ -1,3 +1,7 @@
+This is the midterm project for Steven's Institute of Technology's Financial Technology (FE-595) course. In this project, the team (Group 7) created a web API that provides users with NLP data on submitted data.
+
+Please see the user document and developer's guide for more information on how to use this API.
+
 ******************************************************
 Direction For Developers: 
 To install and run the API on your server please do the following: 
